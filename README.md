@@ -3,7 +3,7 @@
 ## Installing
 
 npm install
-node : 21.5.0
+-node : 21.5.0
 
 ## Project Structure
 
