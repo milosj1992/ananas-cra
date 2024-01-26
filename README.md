@@ -12,7 +12,6 @@ This project is a React application written in TypeScript. It uses npm for packa
 - `.eslintrc.json`: This file contains the configuration for ESLint.
 - `README.md`: This file typically contains information about the project, how to run it, and other related documentation.
 - `package.json`: This file contains metadata about the project and lists its dependencies.
-- `postcss.config.js`: This file contains the configuration for PostCSS.
 - `public/`: This directory contains static files that are not processed by Webpack.
 - `src/`: This directory contains the source code of the application.
   - `App.tsx`: This is the main component of the React application.
@@ -22,13 +21,11 @@ This project is a React application written in TypeScript. It uses npm for packa
   - `index.tsx`: This is the entry point of the React application.
   - `layout/`: This directory contains layout components.
   - `pages/`: This directory contains the page components.
-  - `reportWebVitals.ts`: This file contains a function for reporting web vitals.
   - `router/`: This directory contains the routing configuration.
-  - `services/`: This directory contains service functions or classes.
-  - `setupTests.ts`: This file contains setup code for tests.
+  - `services/`: This directory contains service functions for fetch request.
   - `tests/`: This directory contains test files.
   - `types/`: This directory contains TypeScript type definitions.
-  - `utils/`: This directory contains utility functions or constants.
+  - `utils/`: This directory contains component logger.
 - `tailwind.config.js`: This file contains the configuration for Tailwind CSS.
 - `tsconfig.json`: This file contains the configuration for the TypeScript compiler.
 
